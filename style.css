@@ -40,6 +40,11 @@ img#admin {
     border-radius: 10px;
     max-height: 167px;
 }
+img.project_cv_img {
+    max-width: 293px;
+    height: auto;
+    padding-top: 10px;
+}
 footer#footer {
     text-align: center;
 }
